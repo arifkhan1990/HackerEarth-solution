@@ -4,7 +4,7 @@
                Problem      :   Largest Square
                Level        :   Medium
                Judge        :   HackerEarth
-               Date         :   29/11/2023
+               Date         :   30/11/2023
                Time         :   O(N)
                Memory       :   3.5KB
                Difficulty   :   Easy
